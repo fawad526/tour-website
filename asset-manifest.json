@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.e28e0fa7.css",
-    "main.js": "/static/js/main.aa691b74.js",
-    "static/media/img-2.jpg": "/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
-    "static/media/img-1.jpg": "/static/media/img-1.53f4843759ebec256cb9.jpg",
-    "static/media/img-8.jpg": "/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
-    "index.html": "/index.html",
-    "main.e28e0fa7.css.map": "/static/css/main.e28e0fa7.css.map",
-    "main.aa691b74.js.map": "/static/js/main.aa691b74.js.map"
+    "main.css": "/tour-website/static/css/main.32b5be7b.css",
+    "main.js": "/tour-website/static/js/main.aa691b74.js",
+    "static/media/img-2.jpg": "/tour-website/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/img-1.jpg": "/tour-website/static/media/img-1.53f4843759ebec256cb9.jpg",
+    "static/media/img-8.jpg": "/tour-website/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
+    "index.html": "/tour-website/index.html",
+    "main.32b5be7b.css.map": "/tour-website/static/css/main.32b5be7b.css.map",
+    "main.aa691b74.js.map": "/tour-website/static/js/main.aa691b74.js.map"
   },
   "entrypoints": [
-    "static/css/main.e28e0fa7.css",
+    "static/css/main.32b5be7b.css",
     "static/js/main.aa691b74.js"
   ]
 }
